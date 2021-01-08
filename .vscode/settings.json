@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "am_env\\Scripts\\python.exe",
+    "python.autoComplete.extraPaths":[
+        "C:\\Users\\fleetjm1\\Documents\\Coding\\Python Projects\\amazon_price_checker\\am_env\\Lib\\site-packages"
+    ]
+}

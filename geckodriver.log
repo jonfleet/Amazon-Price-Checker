@@ -1,0 +1,1223 @@
+1567309536802	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fleetjm1\\AppData\\Local\\Temp\\rust_mozprofile.dUwN0bFwnGOP"
+1567309590935	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fleetjm1\\AppData\\Local\\Temp\\rust_mozprofile.lZl2Yq7vjtaJ"
+1567309591515	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567309591520	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567309591520	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567309591520	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567309594101	Marionette	INFO	Listening on port 60414
+1567309594570	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12304, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12304, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12304, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1567309625788	Marionette	INFO	Stopped listening on port 60414
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1567437442148	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fleetjm1\\AppData\\Local\\Temp\\rust_mozprofile.gB5B2BAay0KW"
+1567437442684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567437442684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567437442684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567437442684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567437445069	Marionette	INFO	Listening on port 61834
+1567437445273	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: resource:///modules/UrlbarView.jsm, line 123: Array.reduce is deprecated; use Array.prototype.reduce instead
+[Child 3816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3816, ChromJavaScript warning: https://www.amazon.com/Selenium-WebDriver-Practical-Guide-End/dp/1788999762, line 24: unreachable code after return statement
+JavaScript warning: https://www.amazon.com/Selenium-WebDriver-Practical-Guide-End/dp/1788999762 line 854 > scriptElement, line 24: unreachable code after return statement
+JavaScript warning: https://www.amazon.com/Selenium-WebDriver-Practical-Guide-End/dp/1788999762, line 22: unreachable code after return statement
+JavaScript warning: https://www.amazon.com/Selenium-WebDriver-Practical-Guide-End/dp/1788999762 line 854 > scriptElement, line 22: unreachable code after return statement
+[Parent 17736, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 17736, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.amazon.com/Selenium-WebDriver-Practical-Guide-End/dp/1788999762, line 57: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+[Parent 17736, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 17736, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NNgv9InkL._RC|11-BZEJ8lnL.js,61GQ9IdK7HL.js,21Of0-9HPCL.js,012FVc3131L.js,119KAWlHU6L.js,51xL2QLv4YL.js,11AHlQhPRjL.js,016iHgpF74L.js,11aNYFFS5hL.js,116tgw9TSaL.js,211-p4GRUCL.js,01PoLXBDXWL.js,61qxdn6eP-L.js,01mi-J86cyL.js,11WhBvHM7eL.js,31UWuPgtTtL.js,01rpauTep4L.js,01iyxuSGj4L.js,0176T5lpdcL.js_.js?AUIClients/AmazonUI#192338-T1.206347-T1, line 24: unreachable code after return statement
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NNgv9InkL._RC|11-BZEJ8lnL.js,61GQ9IdK7HL.js,21Of0-9HPCL.js,012FVc3131L.js,119KAWlHU6L.js,51xL2QLv4YL.js,11AHlQhPRjL.js,016iHgpF74L.js,11aNYFFS5hL.js,116tgw9TSaL.js,211-p4GRUCL.js,01PoLXBDXWL.js,61qxdn6eP-L.js,01mi-J86cyL.js,11WhBvHM7eL.js,31UWuPgtTtL.js,01rpauTep4L.js,01iyxuSGj4L.js,0176T5lpdcL.js_.js?AUIClients/AmazonUI#192338-T1.206347-T1 line 40 > eval, line 24: unreachable code after return statement
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NNgv9InkL._RC|11-BZEJ8lnL.js,61GQ9IdK7HL.js,21Of0-9HPCL.js,012FVc3131L.js,119KAWlHU6L.js,51xL2QLv4YL.js,11AHlQhPRjL.js,016iHgpF74L.js,11aNYFFS5hL.js,116tgw9TSaL.js,211-p4GRUCL.js,01PoLXBDXWL.js,61qxdn6eP-L.js,01mi-J86cyL.js,11WhBvHM7eL.js,31UWuPgtTtL.js,01rpauTep4L.js,01iyxuSGj4L.js,0176T5lpdcL.js_.js?AUIClients/AmazonUI#192338-T1.206347-T1, line 23: unreachable code after return statement
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/61NNgv9InkL._RC|11-BZEJ8lnL.js,61GQ9IdK7HL.js,21Of0-9HPCL.js,012FVc3131L.js,119KAWlHU6L.js,51xL2QLv4YL.js,11AHlQhPRjL.js,016iHgpF74L.js,11aNYFFS5hL.js,116tgw9TSaL.js,211-p4GRUCL.js,01PoLXBDXWL.js,61qxdn6eP-L.js,01mi-J86cyL.js,11WhBvHM7eL.js,31UWuPgtTtL.js,01rpauTep4L.js,01iyxuSGj4L.js,0176T5lpdcL.js_.js?AUIClients/AmazonUI#192338-T1.206347-T1 line 40 > eval, line 23: unreachable code after return statement
+JavaScript warning: https://www.amazon.com/Selenium-WebDriver-Practical-Guide-End/dp/1788999762, line 57: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+[Parent 17736, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+[Child 17060, Chrome_ChildThread] W[Child 18104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18104, Chrome_ChildThread] WA[Parent 17736, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16268, Chrome_ChildTh1567437650579	Marionette	INFO	Stopped listening on port 61834
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 1504, Chrome
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1567437671024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fleetjm1\\AppData\\Local\\Temp\\rust_mozprofile.0iCQR4P34o7N"
+1567437671629	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567437671630	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567437671630	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567437671630	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567437674040	Marionette	INFO	Listening on port 62009
+1567437674153	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 19260, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 19260, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 19260, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1567437701490	Marionette	INFO	Stopped listening on port 62009
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 10524
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1567437750593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fleetjm1\\AppData\\Local\\Temp\\rust_mozprofile.fU0QoRWbKXTu"
+1567437751176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567437751176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567437751177	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567437751177	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567437753559	Marionette	INFO	Listening on port 62043
+1567437753726	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 19820, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7524, C[Parent 19820, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1567437771884	Marionette	INFO	Stopped listening on port 62043
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 21
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1567437786379	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fleetjm1\\AppData\\Local\\Temp\\rust_mozprofile.SKIKL0uZUERF"
+1567437786918	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567437786918	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567437786918	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567437786919	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567437789348	Marionette	INFO	Listening on port 62087
+1567437789514	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 16020, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9940, Chrome_C[Parent 16020, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21168, C1567437794904	Marionette	INFO	Stopped listening on port 62087
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 177
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1567437806218	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fleetjm1\\AppData\\Local\\Temp\\rust_mozprofile.z6AeqtKFLdPZ"
+1567437806786	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567437806786	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567437806787	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567437806787	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567437809262	Marionette	INFO	Listening on port 62130
+1567437809356	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amazon.com"
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+[Child 6516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+common/ipc_channel_win.cc, line 341
+[Child 21080, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21080, Chrome_ChildThread] WARNING: pipe [Parent 7092, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1567438349129	Marionette	INFO	Stopped listening on port 62130
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 5584, Chrome_ChildThread] WARNING: 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+c, line 341
+[Parent 16796, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 16796, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 16796, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18228, Chrome_1567437977757	Marionette	INFO	Stopped listening on port 62260
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1567438359967	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fleetjm1\\AppData\\Local\\Temp\\rust_mozprofile.Ox5XE3op6422"
+1567438360499	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567438360499	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567438360499	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567438360499	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567438362810	Marionette	INFO	Listening on port 62399
+1567438363098	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+[Parent 11080, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 11080, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 11080, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17721567438471200	Marionette	INFO	Stopped listening on port 62399
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1567438580921	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fleetjm1\\AppData\\Local\\Temp\\rust_mozprofile.rBAnnplPSiDQ"
+1567438581440	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567438581440	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567438581440	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567438581440	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567438583763	Marionette	INFO	Listening on port 62531
+1567438584056	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1518: TypeError: currentPanel is undefined
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:443:26\ngetGrids@resource://devtools/server/actors/layout.js:448:43\ngetGrids@resource://devtools/server/actors/layout.js:448:43\nhandler@resource://devtools/shared/protocol.js:1189:37\nonPacket@resource://devtools/server/main.js:1291:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:443:26\ngetGrids@resource://devtools/server/actors/layout.js:448:43\nhandler@resource://devtools/shared/protocol.js:1189:37\nonPacket@resource://devtools/server/main.js:1291:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:443:26\ngetGrids@resource://devtools/server/actors/layout.js:448:43\nhandler@resource://devtools/shared/protocol.js:1189:37\nonPacket@resource://devtools/server/main.js:1291:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+console.error: "TypeError: this.doc is null: _selectionWalker@resource://devtools/client/inspector/markup/markup.js:768:20\n_onShortcut@resource://devtools/client/inspector/markup/markup.js:966:31\n_initShortcuts/</<@resource://devtools/client/inspector/markup/markup.js:891:40\nemit@resource://devtools/shared/event-emitter.js:186:24\nemit@resource://devtools/shared/event-emitter.js:267:18\nhandleEvent@resource://devtools/client/shared/key-shortcuts.js:263:27\n"
+TypeError: this.doc is null: _selectionWalker@resource://devtools/client/inspector/markup/markup.js:768:20
+_onShortcut@resource://devtools/client/inspector/markup/markup.js:966:31
+_initShortcuts/</<@resource://devtools/client/inspector/markup/markup.js:891:40
+emit@resource://devtools/shared/event-emitter.js:186:24
+emit@resource://devtools/shared/event-emitter.js:267:18
+handleEvent@resource://devtools/client/shared/key-shortcuts.js:263:27
+
+console.error: "TypeError: this.doc is null: _selectionWalker@resource://devtools/client/inspector/markup/markup.js:768:20\n_onShortcut@resource://devtools/client/inspector/markup/markup.js:959:35\n_initShortcuts/</<@resource://devtools/client/inspector/markup/markup.js:891:40\nemit@resource://devtools/shared/event-emitter.js:186:24\nemit@resource://devtools/shared/event-emitter.js:267:18\nhandleEvent@resource://devtools/client/shared/key-shortcuts.js:263:27\n"
+TypeError: this.doc is null: _selectionWalker@resource://devtools/client/inspector/markup/markup.js:768:20
+_onShortcut@resource://devtools/client/inspector/markup/markup.js:959:35
+_initShortcuts/</<@resource://devtools/client/inspector/markup/markup.js:891:40
+emit@resource://devtools/shared/event-emitter.js:186:24
+emit@resource://devtools/shared/event-emitter.js:267:18
+handleEvent@resource://devtools/client/shared/key-shortcuts.js:263:27
+
+console.error: "TypeError: this.doc is null: _selectionWalker@resource://devtools/client/inspector/markup/markup.js:768:20\n_onShortcut@resource://devtools/client/inspector/markup/markup.js:966:31\n_initShortcuts/</<@resource://devtools/client/inspector/markup/markup.js:891:40\nemit@resource://devtools/shared/event-emitter.js:186:24\nemit@resource://devtools/shared/event-emitter.js:267:18\nhandleEvent@resource://devtools/client/shared/key-shortcuts.js:263:27\n"
+TypeError: this.doc is null: _selectionWalker@resource://devtools/client/inspector/markup/markup.js:768:20
+_onShortcut@resource://devtools/client/inspector/markup/markup.js:966:31
+_initShortcuts/</<@resource://devtools/client/inspector/markup/markup.js:891:40
+emit@resource://devtools/shared/event-emitter.js:186:24
+emit@resource://devtools/shared/event-emitter.js:267:18
+handleEvent@resource://devtools/client/shared/key-shortcuts.js:263:27
+
+console.error: "TypeError: this.doc is null: _selectionWalker@resource://devtools/client/inspector/markup/markup.js:768:20\n_onShortcut@resource://devtools/client/inspector/markup/markup.js:966:31\n_initShortcuts/</<@resource://devtools/client/inspector/markup/markup.js:891:40\nemit@resource://devtools/shared/event-emitter.js:186:24\nemit@resource://devtools/shared/event-emitter.js:267:18\nhandleEvent@resource://devtools/client/shared/key-shortcuts.js:263:27\n"
+TypeError: this.doc is null: _selectionWalker@resource://devtools/client/inspector/markup/markup.js:768:20
+_onShortcut@resource://devtools/client/inspector/markup/markup.js:966:31
+_initShortcuts/</<@resource://devtools/client/inspector/markup/markup.js:891:40
+emit@resource://devtools/shared/event-emitter.js:186:24
+emit@resource://devtools/shared/event-emitter.js:267:18
+handleEvent@resource://devtools/client/shared/key-shortcuts.js:263:27
+
+console.error: "TypeError: this.doc is null: _selectionWalker@resource://devtools/client/inspector/markup/markup.js:768:20\n_onShortcut@resource://devtools/client/inspector/markup/markup.js:966:31\n_initShortcuts/</<@resource://devtools/client/inspector/markup/markup.js:891:40\nemit@resource://devtools/shared/event-emitter.js:186:24\nemit@resource://devtools/shared/event-emitter.js:267:18\nhandleEvent@resource://devtools/client/shared/key-shortcuts.js:263:27\n"
+TypeError: this.doc is null: _selectionWalker@resource://devtools/client/inspector/markup/markup.js:768:20
+_onShortcut@resource://devtools/client/inspector/markup/markup.js:966:31
+_initShortcuts/</<@resource://devtools/client/inspector/markup/markup.js:891:40
+emit@resource://devtools/shared/event-emitter.js:186:24
+emit@resource://devtools/shared/event-emitter.js:267:18
+handleEvent@resource://devtools/client/shared/key-shortcuts.js:263:27
+
+console.error: "TypeError: this.doc is null: _selectionWalker@resource://devtools/client/inspector/markup/markup.js:768:20\n_onShortcut@resource://devtools/client/inspector/markup/markup.js:966:31\n_initShortcuts/</<@resource://devtools/client/inspector/markup/markup.js:891:40\nemit@resource://devtools/shared/event-emitter.js:186:24\nemit@resource://devtools/shared/event-emitter.js:267:18\nhandleEvent@resource://devtools/client/shared/key-shortcuts.js:263:27\n"
+TypeError: this.doc is null: _selectionWalker@resource://devtools/client/inspector/markup/markup.js:768:20
+_onShortcut@resource://devtools/client/inspector/markup/markup.js:966:31
+_initShortcuts/</<@resource://devtools/client/inspector/markup/markup.js:891:40
+emit@resource://devtools/shared/event-emitter.js:186:24
+emit@resource://devtools/shared/event-emitter.js:267:18
+handleEvent@resource://devtools/client/shared/key-shortcuts.js:263:27
+
+console.error: "TypeError: this.doc is null: _selectionWalker@resource://devtools/client/inspector/markup/markup.js:768:20\n_onShortcut@resource://devtools/client/inspector/markup/markup.js:966:31\n_initShortcuts/</<@resource://devtools/client/inspector/markup/markup.js:891:40\nemit@resource://devtools/shared/event-emitter.js:186:24\nemit@resource://devtools/shared/event-emitter.js:267:18\nhandleEvent@resource://devtools/client/shared/key-shortcuts.js:263:27\n"
+TypeError: this.doc is null: _selectionWalker@resource://devtools/client/inspector/markup/markup.js:768:20
+_onShortcut@resource://devtools/client/inspector/markup/markup.js:966:31
+_initShortcuts/</<@resource://devtools/client/inspector/markup/markup.js:891:40
+emit@resource://devtools/shared/event-emitter.js:186:24
+emit@resource://devtools/shared/event-emitter.js:267:18
+handleEvent@resource://devtools/client/shared/key-shortcuts.js:263:27
+
+console.error: "TypeError: this.doc is null: _selectionWalker@resource://devtools/client/inspector/markup/markup.js:768:20\n_onShortcut@resource://devtools/client/inspector/markup/markup.js:966:31\n_initShortcuts/</<@resource://devtools/client/inspector/markup/markup.js:891:40\nemit@resource://devtools/shared/event-emitter.js:186:24\nemit@resource://devtools/shared/event-emitter.js:267:18\nhandleEvent@resource://devtools/client/shared/key-shortcuts.js:263:27\n"
+TypeError: this.doc is null: _selectionWalker@resource://devtools/client/inspector/markup/markup.js:768:20
+_onShortcut@resource://devtools/client/inspector/markup/markup.js:966:31
+_initShortcuts/</<@resource://devtools/client/inspector/markup/markup.js:891:40
+emit@resource://devtools/shared/event-emitter.js:186:24
+emit@resource://devtools/shared/event-emitter.js:267:18
+handleEvent@resource://devtools/client/shared/key-shortcuts.js:263:27
+
+console.error: "TypeError: this.doc is null: _selectionWalker@resource://devtools/client/inspector/markup/markup.js:768:20\n_onShortcut@resource://devtools/client/inspector/markup/markup.js:966:31\n_initShortcuts/</<@resource://devtools/client/inspector/markup/markup.js:891:40\nemit@resource://devtools/shared/event-emitter.js:186:24\nemit@resource://devtools/shared/event-emitter.js:267:18\nhandleEvent@resource://devtools/client/shared/key-shortcuts.js:263:27\n"
+TypeError: this.doc is null: _selectionWalker@resource://devtools/client/inspector/markup/markup.js:768:20
+_onShortcut@resource://devtools/client/inspector/markup/markup.js:966:31
+_initShortcuts/</<@resource://devtools/client/inspector/markup/markup.js:891:40
+emit@resource://devtools/shared/event-emitter.js:186:24
+emit@resource://devtools/shared/event-emitter.js:267:18
+handleEvent@resource://devtools/client/shared/key-shortcuts.js:263:27
+
+console.error: "TypeError: this.doc is null: _selectionWalker@resource://devtools/client/inspector/markup/markup.js:768:20\n_onShortcut@resource://devtools/client/inspector/markup/markup.js:966:31\n_initShortcuts/</<@resource://devtools/client/inspector/markup/markup.js:891:40\nemit@resource://devtools/shared/event-emitter.js:186:24\nemit@resource://devtools/shared/event-emitter.js:267:18\nhandleEvent@resource://devtools/client/shared/key-shortcuts.js:263:27\n"
+TypeError: this.doc is null: _selectionWalker@resource://devtools/client/inspector/markup/markup.js:768:20
+_onShortcut@resource://devtools/client/inspector/markup/markup.js:966:31
+_initShortcuts/</<@resource://devtools/client/inspector/markup/markup.js:891:40
+emit@resource://devtools/shared/event-emitter.js:186:24
+emit@resource://devtools/shared/event-emitter.js:267:18
+handleEvent@resource://devtools/client/shared/key-shortcuts.js:263:27
+
+console.error: "TypeError: this.doc is null: _selectionWalker@resource://devtools/client/inspector/markup/markup.js:768:20\n_onShortcut@resource://devtools/client/inspector/markup/markup.js:966:31\n_initShortcuts/</<@resource://devtools/client/inspector/markup/markup.js:891:40\nemit@resource://devtools/shared/event-emitter.js:186:24\nemit@resource://devtools/shared/event-emitter.js:267:18\nhandleEvent@resource://devtools/client/shared/key-shortcuts.js:263:27\n"
+TypeError: this.doc is null: _selectionWalker@resource://devtools/client/inspector/markup/markup.js:768:20
+_onShortcut@resource://devtools/client/inspector/markup/markup.js:966:31
+_initShortcuts/</<@resource://devtools/client/inspector/markup/markup.js:891:40
+emit@resource://devtools/shared/event-emitter.js:186:24
+emit@resource://devtools/shared/event-emitter.js:267:18
+handleEvent@resource://devtools/client/shared/key-shortcuts.js:263:27
+
+console.error: "TypeError: this.doc is null: _selectionWalker@resource://devtools/client/inspector/markup/markup.js:768:20\n_onShortcut@resource://devtools/client/inspector/markup/markup.js:966:31\n_initShortcuts/</<@resource://devtools/client/inspector/markup/markup.js:891:40\nemit@resource://devtools/shared/event-emitter.js:186:24\nemit@resource://devtools/shared/event-emitter.js:267:18\nhandleEvent@resource://devtools/client/shared/key-shortcuts.js:263:27\n"
+TypeError: this.doc is null: _selectionWalker@resource://devtools/client/inspector/markup/markup.js:768:20
+_onShortcut@resource://devtools/client/inspector/markup/markup.js:966:31
+_initShortcuts/</<@resource://devtools/client/inspector/markup/markup.js:891:40
+emit@resource://devtools/shared/event-emitter.js:186:24
+emit@resource://devtools/shared/event-emitter.js:267:18
+handleEvent@resource://devtools/client/shared/key-shortcuts.js:263:27
+
+console.error: "TypeError: this.doc is null: _selectionWalker@resource://devtools/client/inspector/markup/markup.js:768:20\n_onShortcut@resource://devtools/client/inspector/markup/markup.js:966:31\n_initShortcuts/</<@resource://devtools/client/inspector/markup/markup.js:891:40\nemit@resource://devtools/shared/event-emitter.js:186:24\nemit@resource://devtools/shared/event-emitter.js:267:18\nhandleEvent@resource://devtools/client/shared/key-shortcuts.js:263:27\n"
+TypeError: this.doc is null: _selectionWalker@resource://devtools/client/inspector/markup/markup.js:768:20
+_onShortcut@resource://devtools/client/inspector/markup/markup.js:966:31
+_initShortcuts/</<@resource://devtools/client/inspector/markup/markup.js:891:40
+emit@resource://devtools/shared/event-emitter.js:186:24
+emit@resource://devtools/shared/event-emitter.js:267:18
+handleEvent@resource://devtools/client/shared/key-shortcuts.js:263:27
+
+console.error: "TypeError: this.doc is null: _selectionWalker@resource://devtools/client/inspector/markup/markup.js:768:20\n_onShortcut@resource://devtools/client/inspector/markup/markup.js:966:31\n_initShortcuts/</<@resource://devtools/client/inspector/markup/markup.js:891:40\nemit@resource://devtools/shared/event-emitter.js:186:24\nemit@resource://devtools/shared/event-emitter.js:267:18\nhandleEvent@resource://devtools/client/shared/key-shortcuts.js:263:27\n"
+TypeError: this.doc is null: _selectionWalker@resource://devtools/client/inspector/markup/markup.js:768:20
+_onShortcut@resource://devtools/client/inspector/markup/markup.js:966:31
+_initShortcuts/</<@resource://devtools/client/inspector/markup/markup.js:891:40
+emit@resource://devtools/shared/event-emitter.js:186:24
+emit@resource://devtools/shared/event-emitter.js:267:18
+handleEvent@resource://devtools/client/shared/key-shortcuts.js:263:27
+
+JavaScript warning: resource:///modules/UrlbarView.jsm, line 123: Array.reduce is deprecated; use Array.prototype.reduce instead
+[Parent 1620, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 1620, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.amazon.com/Colgate-Total-Whitening-Toothpaste-Count/dp/B07JHV6LS2/ref=sr_1_1_sspa?keywords=toothpaste&qid=1567438613&s=gateway&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyMlNORDBTTjNJRDFaJmVuY3J5cHRlZElkPUEwMTM1MTMxMUI2RFkyVUNOMUozOSZlbmNyeXB0ZWRBZElkPUEwODU0NjExMllDU0JXTVZKTUg5QSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=, line 57: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+[Parent 1620, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3772, Chrome_ChildThread][Parent 1620, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 1620, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.amazon.com/Colgate-Total-Whitening-Toothpaste-Count/dp/B07JHV6LS2/ref=sr_1_1_sspa?keywords=toothpaste&qid=1567438613&s=gateway&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyMlNORDBTTjNJRDFaJmVuY3J5cHRlZElkPUEwMTM1MTMxMUI2RFkyVUNOMUozOSZlbmNyeXB0ZWRBZElkPUEwODU0NjExMllDU0JXTVZKTUg5QSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=, line 57: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+[Child 17144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17144, Chrome_ChildTh[Parent 1620, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8532, Chrome_Child[Parent 1620, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 1620, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.amazon.com/Colgate-Total-Whitening-Toothpaste-Count/dp/B07JHV6LS2/ref=sr_1_1_sspa?keywords=toothpaste&qid=1567444047&s=gateway&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFRV1I3MFNYSDVZNzYmZW5jcnlwdGVkSWQ9QTA5MTc3MDAzUVY3OExUM1AwRFVZJmVuY3J5cHRlZEFkSWQ9QTA4NTQ2MTEyWUNTQldNVkpNSDlBJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==, line 57: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+[Child 24884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+[Child 24884, Chrome_ChildThread] WARNING: pipe erro[Parent 1620, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 1620, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:443:26\ngetGrids@resource://devtools/server/actors/layout.js:448:43\nhandler@resource://devtools/shared/protocol.js:1189:37\nonPacket@resource://devtools/server/main.js:1291:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript warning: https://www.amazon.com/Colgate-Total-Whitening-Toothpaste-Count/dp/B07JHV6LS2/ref=sr_1_1_sspa?keywords=toothpaste&qid=1567438613&s=gateway&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyMlNORDBTTjNJRDFaJmVuY3J5cHRlZElkPUEwMTM1MTMxMUI2RFkyVUNOMUozOSZlbmNyeXB0ZWRBZElkPUEwODU0NjExMllDU0JXTVZKTUg5QSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=, line 57: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+[Parent 1620, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 1620, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+[Child 740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 740, Chrome_ChildThread] WARNING: pipe error: 109: file z[Parent 1620, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/t1567449502056	Marionette	INFO	Stopped listening on port 62531
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+nnel closing: too late to send/recv, messages will be lost
+
+m/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16268, Ch1567441053925	Marionette	INFO	Stopped listening on port 62860
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 17900, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1567441391817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fleetjm1\\AppData\\Local\\Temp\\rust_mozprofile.6p5iCkyZmaJ1"
+1567441392370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567441392370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567441392370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567441392370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567441395241	Marionette	INFO	Listening on port 63211
+1567441395449	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+console.error: "Error while calling actor 'pagestyle's method 'isPositionEditable'" "getComputedStyle(...) is null"
+console.error: "getDefinedGeometryProperties@resource://devtools/server/actors/highlighters/geometry-editor.js:167:24\nisPositionEditable@resource://devtools/server/actors/styles.js:542:19\nhandler@resource://devtools/shared/protocol.js:1189:37\nonPacket@resource://devtools/server/main.js:1291:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): getComputedStyle(...) is null"
+console.error: "Error while calling actor 'pagestyle's method 'isPositionEditable'" "getComputedStyle(...) is null"
+console.error: "getDefinedGeometryProperties@resource://devtools/server/actors/highlighters/geometry-editor.js:167:24\nisPositionEditable@resource://devtools/server/actors/styles.js:542:19\nhandler@resource://devtools/shared/protocol.js:1189:37\nonPacket@resource://devtools/server/main.js:1291:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): getComputedStyle(...) is null"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "can't access dead object"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:839:24\nhandler@resource://devtools/shared/protocol.js:1189:37\nonPacket@resource://devtools/server/main.js:1291:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "can't access dead object"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:839:24\nhandler@resource://devtools/shared/protocol.js:1189:37\nonPacket@resource://devtools/server/main.js:1291:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "can't access dead object"
+console.error: "getBindingElementAndPseudo@resource://devtools/shared/inspector/css-logic.js:471:7\n_getAllElementRules@resource://devtools/server/actors/styles.js:568:18\ngetApplied@resource://devtools/server/actors/styles.js:520:35\nhandler@resource://devtools/shared/protocol.js:1189:37\nonPacket@resource://devtools/server/main.js:1291:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "can't access dead object"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:839:24\nhandler@resource://devtools/shared/protocol.js:1189:37\nonPacket@resource://devtools/server/main.js:1291:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "can't access dead object"
+console.error: "getBindingElementAndPseudo@resource://devtools/shared/inspector/css-logic.js:471:7\n_getAllElementRules@resource://devtools/server/actors/styles.js:568:18\ngetApplied@resource://devtools/server/actors/styles.js:520:35\nhandler@resource://devtools/shared/protocol.js:1189:37\nonPacket@resource://devtools/server/main.js:1291:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "can't access dead object"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:839:24\nhandler@resource://devtools/shared/protocol.js:1189:37\nonPacket@resource://devtools/server/main.js:1291:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "can't access dead object"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:839:24\nhandler@resource://devtools/shared/protocol.js:1189:37\nonPacket@resource://devtools/server/main.js:1291:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "can't access dead object"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:839:24\nhandler@resource://devtools/shared/protocol.js:1189:37\nonPacket@resource://devtools/server/main.js:1291:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "can't access dead object"
+console.error: "getBindingElementAndPseudo@resource://devtools/shared/inspector/css-logic.js:471:7\n_getAllElementRules@resource://devtools/server/actors/styles.js:568:18\ngetApplied@resource://devtools/server/actors/styles.js:520:35\nhandler@resource://devtools/shared/protocol.js:1189:37\nonPacket@resource://devtools/server/main.js:1291:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Protocol error (unknownError): can't access dead object"
+[Parent 8888, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 8888, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:443:26\ngetGrids@resource://devtools/server/actors/layout.js:448:43\nhandler@resource://devtools/shared/protocol.js:1189:37\nonPacket@resource://devtools/server/main.js:1291:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript warning: https://www.amazon.com/Colgate-Total-Whitening-Toothpaste-Count/dp/B07JHV6LS2/ref=sr_1_1_sspa?keywords=toothpaste&qid=1567442255&s=gateway&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzS09WTFRIVTZLNTJNJmVuY3J5cHRlZElkPUEwNDAyNjk4MkNFTEVENEREMUJSQyZlbmNyeXB0ZWRBZElkPUEwODU0NjExMllDU0JXTVZKTUg5QSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=, line 57: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:443:26\ngetGrids@resource://devtools/server/actors/layout.js:448:43\nhandler@resource://devtools/shared/protocol.js:1189:37\nonPacket@resource://devtools/server/main.js:1291:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:443:26\ngetGrids@resource://devtools/server/actors/layout.js:448:43\nhandler@resource://devtools/shared/protocol.js:1189:37\nonPacket@resource://devtools/server/main.js:1291:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:443:26\ngetGrids@resource://devtools/server/actors/layout.js:448:43\nhandler@resource://devtools/shared/protocol.js:1189:37\nonPacket@resource://devtools/server/main.js:1291:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+[Parent 8888, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 8888, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+console.error: "stylesheets actor: fetch failed for https://images-na.ssl-images-amazon.com/images/I/21ZtpKpPuhL._RC|71GYoBMVOYL.css,11WnO6PP7GL.css,31X8VRHy8QL.css,21+aU+R3IiL.css,31wWWC6YAvL.css,11G4HxMtMSL.css,31OvHRW+XiL.css,01XHMOHpK1L.css_.css?AUIClients/AmazonNavigationDesktopMetaAsset#desktop, using system principal instead."
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:443:26\ngetGrids@resource://devtools/server/actors/layout.js:448:43\ngetGrids@resource://devtools/server/actors/layout.js:448:43\nhandler@resource://devtools/shared/protocol.js:1189:37\nonPacket@resource://devtools/server/main.js:1291:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+Handler function threw an exception: TypeError: this.walker is null
+Stack: get conn@resource://devtools/server/actors/inspector/node.js:71:5
+parent@resource://devtools/shared/protocol.js:826:5
+destroy@resource://devtools/shared/protocol.js:929:25
+destroy@resource://devtools/shared/protocol.js:1027:11
+destroy@resource://devtools/server/actors/inspector/node.js:80:38
+destroy@resource://devtools/shared/protocol.js:946:17
+destroy@resource://devtools/shared/protocol.js:1027:11
+destroy@resource://devtools/server/actors/styles.js:98:38
+destroy@resource://devtools/shared/protocol.js:946:17
+destroy@resource://devtools/shared/protocol.js:1027:11
+destroy@resource://devtools/server/actors/inspector/inspector.js:88:38
+destroy@resource://devtools/shared/protocol.js:946:17
+_detach@resource://devtools/server/actors/targets/browsing-context.js:888:35
+exit@resource://devtools/server/actors/targets/browsing-context.js:512:10
+frameTargetPrototype.exit@resource://devtools/server/actors/targets/frame.js:80:45
+destroy@resource://devtools/server/actors/targets/browsing-context.js:493:10
+removeActor@resource://devtools/server/actors/common.js:67:13
+APDestroy@resource://devtools/server/actors/common.js:29:12
+onClosed/<@resource://devtools/server/main.js:1390:37
+onClosed@resource://devtools/server/main.js:1390:22
+close@resource://devtools/shared/transport/child-transport.js:62:16
+close@resource://devtools/server/main.js:1018:23
+onDisconnect<@resource://devtools/server/startup/frame.js:128:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:22
+Line: 71, column: 5
+console.error: "Handler function threw an exception: TypeError: this.walker is null\nStack: get conn@resource://devtools/server/actors/inspector/node.js:71:5\nparent@resource://devtools/shared/protocol.js:826:5\ndestroy@resource://devtools/shared/protocol.js:929:25\ndestroy@resource://devtools/shared/protocol.js:1027:11\ndestroy@resource://devtools/server/actors/inspector/node.js:80:38\ndestroy@resource://devtools/shared/protocol.js:946:17\ndestroy@resource://devtools/shared/protocol.js:1027:11\ndestroy@resource://devtools/server/actors/styles.js:98:38\ndestroy@resource://devtools/shared/protocol.js:946:17\ndestroy@resource://devtools/shared/protocol.js:1027:11\ndestroy@resource://devtools/server/actors/inspector/inspector.js:88:38\ndestroy@resource://devtools/shared/protocol.js:946:17\n_detach@resource://devtools/server/actors/targets/browsing-context.js:888:35\nexit@resource://devtools/server/actors/targets/browsing-context.js:512:10\nframeTargetPrototype.exit@resource://devtools/server/actors/targets/frame.js:80:45\ndestroy@resource://devtools/server/actors/targets/browsing-context.js:493:10\nremoveActor@resource://devtools/server/actors/common.js:67:13\nAPDestroy@resource://devtools/server/actors/common.js:29:12\nonClosed/<@resource://devtools/server/main.js:1390:37\nonClosed@resource://devtools/server/main.js:1390:22\nclose@resource://devtools/shared/transport/child-transport.js:62:16\nclose@resource://devtools/server/main.js:1018:23\nonDisconnect<@resource://devtools/server/startup/frame.js:128:12\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:22\nLine: 71, column: 5"
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+[Parent 8888, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 8888, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 8888, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium1567449500892	Marionette	INFO	Stopped listening on port 63211
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567443232873	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567443232873	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567443235034	Marionette	INFO	Listening on port 64199
+1567443235451	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/91J4izsCgML.js?AUIClients/AmazonLiveReactAssetsBuild-react-core, line 1099: Error: Error while fetching data from S3. Error was: [object Object]
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+1567443288620	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fleetjm1\\AppData\\Local\\Temp\\rust_mozprofile.rUmK4a6KDA5P"
+*** You are running in headless mode.
+1567443289179	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567443289179	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567443289180	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567443289180	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567443291310	Marionette	INFO	Listening on port 64318
+1567443291747	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+1567443386301	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fleetjm1\\AppData\\Local\\Temp\\rust_mozprofile.z8H8crDndB40"
+*** You are running in headless mode.
+1567443386853	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567443386853	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567443386853	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567443386854	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567443389024	Marionette	INFO	Listening on port 64439
+1567443389438	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 15096, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 458
+[Parent 15096, Gecko_IO
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0074,name=PBrowser::Msg_StopIMEStateManagement) Channel error: cannot send/recv
+
+Thread] WARNING: pipe error: 232: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 502
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E00A0,name=PBrowser::Msg_UpdateNativeWindowHandle) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E008F,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 15096, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 15096, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Child 9796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 979[Parent 15096, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 22092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 22091567443399319	Marionette	INFO	Stopped listening on port 64439
+1567443439679	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fleetjm1\\AppData\\Local\\Temp\\rust_mozprofile.tUIOnHqRgNc0"
+*** You are running in headless mode.
+1567443440277	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567443440277	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567443440277	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567443440277	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567443442360	Marionette	INFO	Listening on port 64555
+1567443442815	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+ermission: mozillaAddons
+1567443465053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567443465053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567443465053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567443467334	Marionette	INFO	Listening on port 64677
+1567443467642	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 18712, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+1567443540324	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fleetjm1\\AppData\\Local\\Temp\\rust_mozprofile.88albtF3Ei8i"
+*** You are running in headless mode.
+1567443540910	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567443540910	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567443540910	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567443540910	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567443543116	Marionette	INFO	Listening on port 64802
+1567443543448	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+ermission: mozillaAddons
+1567443704370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567443704370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567443704370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567443706544	Marionette	INFO	Listening on port 64935
+1567443706956	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+1567444040098	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fleetjm1\\AppData\\Local\\Temp\\rust_mozprofile.OQS5r9XIqlR7"
+*** You are running in headless mode.
+1567444040642	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567444040642	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567444040642	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567444040642	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567444042742	Marionette	INFO	Listening on port 65082
+1567444043224	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+1567445242758	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fleetjm1\\AppData\\Local\\Temp\\rust_mozprofile.4xaAGBalROaD"
+*** You are running in headless mode.
+1567445243285	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567445243285	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567445243286	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567445243286	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567445245411	Marionette	INFO	Listening on port 65360
+1567445245893	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 18292, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 18292, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.amazon.com/Colgate-Total-Whitening-Toothpaste-Count/dp/B07JHV6LS2/ref=sr_1_1_sspa?keywords=toothpaste&qid=1567445250&s=gateway&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExODhESzFHTDAwS0Y4JmVuY3J5cHRlZElkPUEwNTM0NzEyMVZTS1FIV0pDUzVKUCZlbmNyeXB0ZWRBZElkPUEwODU0NjExMllDU0JXTVZKTUg5QSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=, line 57: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+1567445412721	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fleetjm1\\AppData\\Local\\Temp\\rust_mozprofile.1gOD3sDZcfMU"
+*** You are running in headless mode.
+1567445413284	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567445413284	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567445413284	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567445413284	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567445415485	Marionette	INFO	Listening on port 65513
+1567445415859	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 8500, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 8500, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 8500, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 8500, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.amazon.com/Colgate-Total-Whitening-Toothpaste-Count/dp/B07JHV6LS2/ref=sr_1_1_sspa?keywords=toothpaste&qid=1567445420&s=gateway&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExMU9PSTNWOTA0TFo2JmVuY3J5cHRlZElkPUEwODkxNTIxM1Y5TjQ5MFhETDM0SCZlbmNyeXB0ZWRBZElkPUEwODU0NjExMllDU0JXTVZKTUg5QSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=, line 57: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+1567445979452	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fleetjm1\\AppData\\Local\\Temp\\rust_mozprofile.7A1jqKKlMDeV"
+*** You are running in headless mode.
+1567445980006	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567445980006	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567445980006	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567445980007	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567445982021	Marionette	INFO	Listening on port 49282
+1567445982079	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 26020, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 26020, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 26020, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 26020, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.amazon.com/Colgate-Total-Whitening-Toothpaste-Count/dp/B07JHV6LS2/ref=sr_1_1_sspa?keywords=toothpaste&qid=1567445986&s=gateway&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyV1JRWjVMU1MwWDhGJmVuY3J5cHRlZElkPUEwNjIxNjAzMURXT09HTE1LQzhBSSZlbmNyeXB0ZWRBZElkPUEwODU0NjExMllDU0JXTVZKTUg5QSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=, line 57: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+1567446185522	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fleetjm1\\AppData\\Local\\Temp\\rust_mozprofile.t9bj8XpzioZR"
+*** You are running in headless mode.
+1567446186291	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567446186292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567446186292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567446186292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567446188714	Marionette	INFO	Listening on port 49418
+1567446189170	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 26136, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/91J4izsCgML.js?AUIClients/AmazonLiveReactAssetsBuild-react-core, line 1099: Error: Error while fetching data from S3. Error was: [object Object]
+[Parent 26136, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 26136, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.amazon.com/Colgate-Total-Whitening-Toothpaste-Count/dp/B07JHV6LS2/ref=sr_1_1_sspa?keywords=toothpaste&qid=1567446194&s=gateway&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzQU43RFozRklFVEJRJmVuY3J5cHRlZElkPUEwMjUyMTY0UklHRFRDTTNUVVJFJmVuY3J5cHRlZEFkSWQ9QTA4NTQ2MTEyWUNTQldNVkpNSDlBJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==, line 57: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+1567446327002	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fleetjm1\\AppData\\Local\\Temp\\rust_mozprofile.VIe4VtC86cNc"
+*** You are running in headless mode.
+1567446327548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567446327548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567446327548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567446327548	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567446329687	Marionette	INFO	Listening on port 49557
+1567446330134	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 26400, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 26400, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 26400, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 26400, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 26400, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.amazon.com/Colgate-Total-Whitening-Toothpaste-Count/dp/B07JHV6LS2/ref=sr_1_1_sspa?keywords=toothpaste&qid=1567446334&s=gateway&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExOVpPVlNKVklXT0kmZW5jcnlwdGVkSWQ9QTAxMzc2NjUxQzFIWjVJQzVPUEMwJmVuY3J5cHRlZEFkSWQ9QTA4NTQ2MTEyWUNTQldNVkpNSDlBJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==, line 57: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+1567447562979	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fleetjm1\\AppData\\Local\\Temp\\rust_mozprofile.T3B6WW94WOY5"
+*** You are running in headless mode.
+1567447563652	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567447563652	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567447563652	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567447563652	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567447566072	Marionette	INFO	Listening on port 49818
+1567447566105	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/91J4izsCgML.js?AUIClients/AmazonLiveReactAssetsBuild-react-core, line 1099: Error: Error while fetching data from S3. Error was: [object Object]
+[Parent 16996, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 16996, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 16996, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 16996, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 16996, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 16996, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.amazon.com/Glide-Oral-B-Pro-Health-Clean-Floss/dp/B01KZOTTSO/ref=ice_ac_b_dpb_sspa?keywords=floss&qid=1567447587&s=gateway&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFUQkVGMUhBNjJKRyZlbmNyeXB0ZWRJZD1BMDQwNzI4MkdRRTNLSFUzWFZBNiZlbmNyeXB0ZWRBZElkPUEwNjcxMjU3MUw2UVdBR1dHWU00VCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=, line 57: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1567449514227	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fleetjm1\\AppData\\Local\\Temp\\rust_mozprofile.PocFSxoMq105"
+1567449514775	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567449514776	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567449514776	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567449514776	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567449517182	Marionette	INFO	Listening on port 50166
+1567449517359	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 30992, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 30992, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 30992, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.amazon.com/Glide-Oral-B-Pro-Health-Clean-Floss/dp/B01KZOTTSO/ref=ice_ac_b_dpb_sspa?keywords=floss&qid=1567449529&s=gateway&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyUkVFNE4yN1IwTDNLJmVuY3J5cHRlZElkPUEwNzYzMjA3M0o0MTYxUTFBSE1CWCZlbmNyeXB0ZWRBZElkPUEwNjcxMjU3MUw2UVdBR1dHWU00VCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=, line 57: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+[Parent 30992, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 31508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 31508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 30992, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 30408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 30408, Chrome_ChildThread] WARNING: pipe error: 109:[Parent 30992, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 30916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 30916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1567450757021	Marionette	INFO	Stopped listening on port 50166
+[GPU 27
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.amazon.com/Crest-Charcoal-Toothpaste-Whitening-Invigorating/dp/B07L625K8T/ref=sr_1_1_sspa?keywords=toothpaste&qid=1567449858&s=gateway&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyMDJYSDgwVElFVVdZJmVuY3J5cHRlZElkPUEwNzg2NTQ5M1FMOFZDOURXNjVWUyZlbmNyeXB0ZWRBZElkPUEwNTM2MDQ0M0UyMzMyUUhNNVBHMSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1, line 57: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+[Parent 27728, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 27728, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.amazon.com/Crest-Charcoal-Toothpaste-Whitening-Invigorating/dp/B07L625K8T/ref=sr_1_1_sspa?keywords=toothpaste&qid=1567449901&s=gateway&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzSjlGUkYxOENJNjBSJmVuY3J5cHRlZElkPUEwNjI5ODk4M1UxQVdCQVFDWkQyNCZlbmNyeXB0ZWRBZElkPUEwNTM2MDQ0M0UyMzMyUUhNNVBHMSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=, line 57: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: resource:///modules/UrlbarView.jsm, line 123: Array.reduce is deprecated; use Array.prototype.reduce instead
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+[Parent 27728, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+[Child 16824, Chrome_ChildTh[Child 27540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 27540, Chrome_Chi1567450745600	Marionette	INFO	Stopped listening on port 50338
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+hromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 24440, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.amazon.com/Crest-Charcoal-Toothpaste-Whitening-Invigorating/dp/B07L625K8T/ref=sr_1_1_sspa?keywords=toothpaste&qid=1567450052&s=gateway&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyVUE1VUI5UFBPM01RJmVuY3J5cHRlZElkPUEwNDA0MjYxNVVaTEs4S1g4S0wxJmVuY3J5cHRlZEFkSWQ9QTA1MzYwNDQzRTIzMzJRSE01UEcxJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==, line 57: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+ermission: mozillaAddons
+1567450136608	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567450136609	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567450136609	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567450139950	Marionette	INFO	Listening on port 50650
+1567450140009	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 30632, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 30632, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.amazon.com/Crest-Charcoal-Toothpaste-Whitening-Invigorating/dp/B07L625K8T/ref=sr_1_1_sspa?keywords=toothpaste&qid=1567450145&s=gateway&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyM0RPWEpQUDRRWllXJmVuY3J5cHRlZElkPUEwOTYwMzkzM0EwWVA0ME1CMTMzRCZlbmNyeXB0ZWRBZElkPUEwNTM2MDQ0M0UyMzMyUUhNNVBHMSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=, line 57: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+ermission: mozillaAddons
+1567450179575	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567450179575	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567450179576	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567450182394	Marionette	INFO	Listening on port 50773
+1567450182549	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 29628, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 29628, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 29628, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.amazon.com/Crest-Charcoal-Toothpaste-Whitening-Invigorating/dp/B07L625K8T/ref=sr_1_1_sspa?keywords=toothpaste&qid=1567450188&s=gateway&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUE0MDlLU0JUUVFOQUsmZW5jcnlwdGVkSWQ9QTA2NTg5MjIzRFRNMUxBRUJJTDIyJmVuY3J5cHRlZEFkSWQ9QTA1MzYwNDQzRTIzMzJRSE01UEcxJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==, line 57: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+ermission: mozillaAddons
+1567450263576	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567450263577	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567450263577	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567450267239	Marionette	INFO	Listening on port 50925
+1567450267614	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 29724, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 29724, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 29724, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 29724, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+1567450480131	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fleetjm1\\AppData\\Local\\Temp\\rust_mozprofile.jTpM1A1FX8l1"
+*** You are running in headless mode.
+1567450480836	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567450480836	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567450480836	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567450480836	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567450484058	Marionette	INFO	Listening on port 51064
+1567450484281	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13556, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 13556, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 13556, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 13556, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript warning: https://www.amazon.com/Crest-Charcoal-Toothpaste-Whitening-Invigorating/dp/B07L625K8T/ref=sr_1_1_sspa?keywords=toothpaste&qid=1567450490&s=gateway&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFGRkIwUDBBQzNQT1omZW5jcnlwdGVkSWQ9QTA3OTY5NjNZU0RTR0JWTUtHNk8mZW5jcnlwdGVkQWRJZD1BMDUzNjA0NDNFMjMzMlFITTVQRzEmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl, line 57: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1567450549098	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fleetjm1\\AppData\\Local\\Temp\\rust_mozprofile.5ukozYrX5KCj"
+*** You are running in headless mode.
+1567450549744	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567450549744	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567450549745	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567450549746	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567450552354	Marionette	INFO	Listening on port 51193
+1567450552732	Marionette	WARN	TLS certificate errors will be ignored for this session
+1567450558744	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+[Parent 20688, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 20688, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 20688, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 20688, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1567450578699	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+[Parent 20688, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 20688, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 20688, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 20688, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 20688, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript error: https://images-na.ssl-images-amazon.com/images/G/01/prime/js/widget._CB461650367_.js?_=1567450593376, line 244: TypeError: WlpInjectable.DependencyInjector is undefined
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 20688, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 20688, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 20688, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 20688, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.amazon.com/Colgate-Adult-Toothbrush-Medium-Count/dp/B00H88K9EE/ref=sr_1_1_sspa?keywords=toothbrush&qid=1567450597&s=gateway&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyRUhZNVg0NE9NVFcwJmVuY3J5cHRlZElkPUEwOTYxNTY1MUgwOUM0UjhWWjA3WSZlbmNyeXB0ZWRBZElkPUEwOTAwNTY2MUpJTDZLRVdPQTZDTCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=, line 57: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+1567451127922	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fleetjm1\\AppData\\Local\\Temp\\rust_mozprofile.3j7deJ8ItTE9"
+*** You are running in headless mode.
+1567451128655	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567451128655	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567451128655	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567451128655	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567451131236	Marionette	INFO	Listening on port 51432
+1567451131557	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 28380, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 28380, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+[Parent 28380, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 28380, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.95.js, line 32: Array.slice is deprecated; use Array.prototype.slice instead
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 28380, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 28380, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 28380, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 28380, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.95.js, line 32: Array.slice is deprecated; use Array.prototype.slice instead
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/91J4izsCgML.js?AUIClients/AmazonLiveReactAssetsBuild-react-core, line 1099: Error: Error while fetching data from S3. Error was: [object Object]
+[Parent 28380, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 28380, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 28380, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 28380, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.amazon.com/Colgate-Adult-Toothbrush-Medium-Count/dp/B00H88K9EE/ref=sr_1_1_sspa?keywords=toothbrush&qid=1567451176&s=gateway&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExVzI0TUg0N1gxTDg2JmVuY3J5cHRlZElkPUEwMDEwNTIzMks1S0pYTzNTNUhCQyZlbmNyeXB0ZWRBZElkPUEwOTAwNTY2MUpJTDZLRVdPQTZDTCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=, line 57: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1567451354356	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fleetjm1\\AppData\\Local\\Temp\\rust_mozprofile.Mim4POoTDeoL"
+*** You are running in headless mode.
+1567451355095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567451355095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567451355095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567451355095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567451357717	Marionette	INFO	Listening on port 51663
+1567451357986	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 31052, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 31052, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 31052, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 31052, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.amazon.com/Colgate-Adult-Toothbrush-Medium-Count/dp/B00H88K9EE/ref=sr_1_1_sspa?keywords=toothbrush&qid=1567451363&s=gateway&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExQjIwS1pER0RWNDg2JmVuY3J5cHRlZElkPUEwNjI3NDI0N01TODJZTE0xTTRDJmVuY3J5cHRlZEFkSWQ9QTA5MDA1NjYxSklMNktFV09BNkNMJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==, line 57: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+ermission: mozillaAddons
+1567451460487	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567451460487	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567451460487	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567451463290	Marionette	INFO	Listening on port 51861
+1567451463401	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://m.media-amazon.com/images/S/ams-ads-creative-assets-na/pdag-desktop-sparkle.1557266962070.js, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+[Parent 26140, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 26140, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 26140, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 26140, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript warning: https://www.amazon.com/Colgate-Adult-Toothbrush-Medium-Count/dp/B00H88K9EE/ref=sr_1_1_sspa?keywords=toothbrush&qid=1567451468&s=gateway&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExOUlUTkxIM1c5TTFGJmVuY3J5cHRlZElkPUEwMjg3OTYzMTNIN09LNFA3QVA1WSZlbmNyeXB0ZWRBZElkPUEwOTAwNTY2MUpJTDZLRVdPQTZDTCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=, line 57: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1567451616639	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fleetjm1\\AppData\\Local\\Temp\\rust_mozprofile.euzfNqavg0s7"
+*** You are running in headless mode.
+1567451617361	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567451617361	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567451617362	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567451617362	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567451619960	Marionette	INFO	Listening on port 52064
+1567451620263	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 26040, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 26040, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 26040, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 26040, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.95.js, line 32: Array.slice is deprecated; use Array.prototype.slice instead
+JavaScript warning: https://www.amazon.com/Colgate-Adult-Toothbrush-Medium-Count/dp/B00H88K9EE/ref=sr_1_1_sspa?keywords=toothbrush&qid=1567451625&s=gateway&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFFU1daVU8wWE1WSTAmZW5jcnlwdGVkSWQ9QTA4MTU5OTkxWVNWMFhENUUwOFdRJmVuY3J5cHRlZEFkSWQ9QTA5MDA1NjYxSklMNktFV09BNkNMJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==, line 57: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1567451891235	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fleetjm1\\AppData\\Local\\Temp\\rust_mozprofile.zljLztZg0Tfc"
+1567451891922	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567451891922	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567451891922	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567451891922	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567451895215	Marionette	INFO	Listening on port 52366
+1567451895372	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 20084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+[Parent 20084, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 20084, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 20084, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 20084, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.amazon.com/Colgate-Adult-Toothbrush-Medium-Count/dp/B00H88K9EE/ref=sr_1_1_sspa?keywords=toothbrush&qid=1567451903&s=gateway&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExWEQzWThDRjdWWjZUJmVuY3J5cHRlZElkPUEwMjIzMDE5MlBJSk8xRVhRVTNGNSZlbmNyeXB0ZWRBZElkPUEwOTAwNTY2MUpJTDZLRVdPQTZDTCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=, line 57: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+[Parent 20084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 20084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 32744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 32744, Chrome_ChildT[Parent 20084, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1567451949562	Marionette	INFO	Stopped listening on port 52366
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 27860, Chrome_ChildT
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1567451973353	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fleetjm1\\AppData\\Local\\Temp\\rust_mozprofile.AjIxoBWAV1NA"
+1567451974261	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567451974262	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567451974262	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567451974262	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567451977468	Marionette	INFO	Listening on port 52548
+1567451977491	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 18144, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 18144, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 18144, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+[Parent 18144, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 18144, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 18144, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 18144, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 18144, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 18144, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 18144, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 18144, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 18144, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://www.amazon.com/Colgate-Adult-Toothbrush-Medium-Count/dp/B00H88K9EE/ref=sr_1_1_sspa?keywords=toothbrush&qid=1567452029&s=gateway&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTU4wT1NIOVdSVUdTJmVuY3J5cHRlZElkPUEwMDczOTM3MkpGSU9PSEFUTUhLSiZlbmNyeXB0ZWRBZElkPUEwOTAwNTY2MUpJTDZLRVdPQTZDTCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=, line 57: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+[Parent 18144, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 32416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[C[Parent 18144, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 28484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2841567452072950	Marionette	INFO	Stopped listening on port 52548
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 4646: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+1567452101540	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fleetjm1\\AppData\\Local\\Temp\\rust_mozprofile.UHKHxl3mT7b9"
+1567452102576	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567452102576	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567452102577	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567452102577	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567452106633	Marionette	INFO	Listening on port 52764
+1567452106769	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 16204, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 28500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/815HCQftbML.js?AUIClients/AmazonLiveReactAssetsBuild-react-vendor, line 279: NS_ERROR_NOT_INITIALIZED: 
+[[Parent 16204, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 32376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 32376, 1567452118462	Marionette	INFO	Stopped listening on port 52764
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1567452127044	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fleetjm1\\AppData\\Local\\Temp\\rust_mozprofile.jfadrLbzSomz"
+*** You are running in headless mode.
+1567452127723	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1567452127724	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1567452127724	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1567452127724	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1567452130424	Marionette	INFO	Listening on port 52871
+1567452130711	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://images-na.ssl-images-amazon.com/images/G/01/prime/js/widget._CB461650367_.js?_=1567452146218, line 244: TypeError: WlpInjectable.DependencyInjector is undefined
+[Parent 29872, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 29872, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221567199562295%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:201:13
+
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://images-na.ssl-images-amazon.com/images/I/91J4izsCgML.js?AUIClients/AmazonLiveReactAssetsBuild-react-core, line 1099: Error: Error while fetching data from S3. Error was: [object Object]
+[Parent 29872, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 29872, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 29872, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 29872, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 29872, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cvp.twitch.tv/2.6.3/videojs-hls-tech.min.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 29872, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 29872, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 29872, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 29872, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+[Parent 29872, Gecko_IOThread] WARNING: file z:/task_1565706750/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 307
+JavaScript warning: https://cdn.flashtalking.com/frameworks/js/api/2/10/html5API.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.flashtalking.com/frameworks/js/api/2/10/html5API.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.amazon.com/Colgate-Adult-Toothbrush-Medium-Count/dp/B00H88K9EE/ref=sr_1_1_sspa?keywords=toothbrush&qid=1567452172&s=gateway&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzVE5YUU5MQjFDNE9XJmVuY3J5cHRlZElkPUEwNTUwMzUwMVJFVEQ3Sko3VFMzTCZlbmNyeXB0ZWRBZElkPUEwOTAwNTY2MUpJTDZLRVdPQTZDTCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=, line 57: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
